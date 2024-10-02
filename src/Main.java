@@ -5,6 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+
         HashMap<Integer, String> map1 = new HashMap<>();
         map1.put(1, "A");
         map1.put(2, "B");
